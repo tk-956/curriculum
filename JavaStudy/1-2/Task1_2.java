@@ -12,8 +12,9 @@ public class Task1_2 {
         //intArrayという名前のint型配列を宣言。
         int[] intArrey = {10,20,30,40,50};
 
-        //intArrayの②番目と⑤番目の要素値を出力
+        //intArrayの②番目と⑤番目の合計の要素値を出力
         System.out.println(intArrey[1]+intArrey[4]);
+
 
 
     }
