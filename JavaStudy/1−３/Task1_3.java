@@ -8,7 +8,7 @@ public class Task1_3 {
     //10に２を乗算して値を代入する、変数multiplyを作成する
         int multiply = 10 * 2;
 
-        int remi = 20 / 6;
+        int remi = 20 % 6;
         
     //townという変数に有楽町をlineに線を定義
         String town = "有楽町";
